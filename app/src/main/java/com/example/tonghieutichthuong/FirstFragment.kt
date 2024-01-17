@@ -54,6 +54,7 @@ class FirstFragment : Fragment() {
                     x2 = ${(-b - Math.sqrt(delta)) / (2 * a)}
                 """.trimIndent())
                 println("ngoc khung dien")
+                println("ngoc khung dien")
             }
 
         }
